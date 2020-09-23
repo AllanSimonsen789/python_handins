@@ -1,0 +1,9 @@
+ex1modules.py
+filenames.txt
+Ny mappe
+outputfile.txt
+outputwords.txt
+utils.py
+words.csv
+__init__.py
+__pycache__
