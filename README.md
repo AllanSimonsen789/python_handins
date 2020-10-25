@@ -7,9 +7,9 @@ cph-as484
 
 Week 1: Done
 
-Week 2: in progress
+Week 2: Done
 
-Week 3: in progress
+Week 3: Done
 
 Week 4: in progress
 

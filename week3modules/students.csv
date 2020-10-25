@@ -1,0 +1,21 @@
+Student_name,StudentidGender,Course_name,Teacher,ECTS,Classroom,Grade,Img_url
+sofie Jakobsen,cph-468,Other,Programming Second Year,Pia,10,1.05,4,picture42068.jpg
+sofie Jakobsen,cph-468,Other,Security,Lars,10,1.05,7,picture42068.jpg
+sofie Jakobsen,cph-468,Other,IoT,Lars,10,1.05,00,picture42068.jpg
+Kristian Hansen,cph-807,Female,Programming Second Year,Hans,10,1.05,00,picture87763.jpg
+Kristian Hansen,cph-807,Female,Python,Sylvia,10,1.05,7,picture87763.jpg
+Kristian Hansen,cph-807,Female,IoT,sofie,10,1.05,7,picture87763.jpg
+Kristian Hansen,cph-807,Female,Programming First Year,Allan,10,1.05,02,picture87763.jpg
+Kristian Hansen,cph-807,Female,Advanced Programming,Kristian,10,1.05,-3,picture87763.jpg
+Simonse Jakobsen,cph-728,Other,Programming Second Year,Andreas,10,1.05,7,picture16788.jpg
+Simonse Jakobsen,cph-728,Other,Advanced Programming,Caroline,10,1.05,-3,picture16788.jpg
+Simonse Jakobsen,cph-728,Other,Programming First Year,Axel,10,1.05,10,picture16788.jpg
+Andreas Bjørnsen,cph-467,Other,Advanced Programming,Hans,10,1.05,7,picture95573.jpg
+Andreas Bjørnsen,cph-467,Other,Security,Tobias,10,1.05,10,picture95573.jpg
+Andreas Bjørnsen,cph-467,Other,IoT,sofie,10,1.05,-3,picture95573.jpg
+Andreas Bjørnsen,cph-467,Other,Python,Simonse,10,1.05,10,picture95573.jpg
+Andreas Hansen,cph-665,Male,Advanced Programming,Andreas,10,1.05,02,picture95389.jpg
+Andreas Hansen,cph-665,Male,IoT,Louise,10,1.05,7,picture95389.jpg
+Andreas Hansen,cph-665,Male,Funktionel Programming,Tobias,10,1.05,10,picture95389.jpg
+Andreas Hansen,cph-665,Male,Javascript,Caroline,10,1.05,4,picture95389.jpg
+Andreas Hansen,cph-665,Male,Python,Sylvia,10,1.05,00,picture95389.jpg
