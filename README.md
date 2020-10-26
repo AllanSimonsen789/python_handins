@@ -11,10 +11,14 @@ Week 2: Done
 
 Week 3: Done
 
-Week 4: in progress
+Week 4: Done
 
 Week 5: in progress
 
 Week 6: in progress
 
 Week 7: in progress
+
+week 8: in progress
+
+week 9: in progress
