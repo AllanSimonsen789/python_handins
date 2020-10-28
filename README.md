@@ -13,7 +13,7 @@ Week 3: Done
 
 Week 4: Done
 
-Week 5: in progress
+Week 5: Done
 
 Week 6: in progress
 
