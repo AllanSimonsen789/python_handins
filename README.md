@@ -19,8 +19,10 @@ Week 6: Done
 
 Week 7: Done
 
-week 8: in progress
+week 8: Done
 
 week 9: in progress
 
 Week 10 : In PrOgReSs
+
+week 11 : %
