@@ -23,6 +23,6 @@ week 8: Done
 
 week 9: Done
 
-Week 10 : In PrOgReSs
+Week 10 : Done :)
 
 week 11 : iN pRoGrEsS
