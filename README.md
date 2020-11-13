@@ -25,4 +25,8 @@ week 9: Done
 
 Week 10 : Done :)
 
-week 11 : iN pRoGrEsS
+week 11 : Done
+
+week 12: NA
+
+week 13: NA
